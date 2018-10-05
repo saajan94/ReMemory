@@ -1,0 +1,9 @@
+.jumbotron {
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header > h1 {
+    color: rgb(196, 27, 15);
+}
