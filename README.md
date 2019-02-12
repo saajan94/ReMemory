@@ -1,3 +1,26 @@
+# ReMemory
+https://saajan94.github.io/ReMemory/
+
+ReMemory is a React.js memory game. This application is broken into UI components, manages component state, and responds to user click events.
+
+### How It Works
+* The object of the game is to click on an image only once, the images will reshuffle after each click in order to test your memory.
+* Each image listens for click events.
+* The user's score is incremented when clicking an image. 
+* The user's score is reset to 0 and the game is over.
+* When the user correctly clicks on every image once, the user wins and the game restarts.
+
+### Technologies Used
+* JavaScript
+* React
+* Bootstrap
+* jQuery
+* HTML
+* CSS
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
